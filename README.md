@@ -27,6 +27,7 @@ For health monitoring purposes, the bot asks whether the tree has any disease?
 The user mentions the disease present in the trees based on his observation.
 After taking these responses, the bot writes the data in Google Sheets for us.
 
-
+## Do you guys want to team up with us?
+Then mail to [us](greenhouse.griet@gmail.com).
 
 
