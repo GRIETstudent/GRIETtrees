@@ -1,6 +1,9 @@
 # [GRIETtrees](https://screenshot-code.github.io/hello/)
-Welcome to this website. This website is designed by GR17 ECE Students. This website maintains information about the trees present on the **GRIET campus**. 
-To know more about the trees present on the campus and to monitor them, **Geotagging** concept is implemented. Geotagging is meant for **identifying**, **knowing** more about the trees and **locating** them on the map for **tracking** purposes. Information related to the trees is presented on web pages.
+- Hii!! Welcoming you with great pleasure. 
+- This website is designed by GR17 ECE Students. 
+- This website maintains information about the trees present on the **GRIET campus**. 
+- To know more about the trees present on the campus and to monitor them, **Geotagging** concept is implemented. 
+> Geotagging is meant for **identifying**, **knowing** more about the trees and **locating** them on the map for **tracking** purposes. Information related to the trees is presented on web pages.
 
 ## The most common sections related to the trees are:
 - About the tree
@@ -28,6 +31,8 @@ The user mentions the disease present in the trees based on his observation.
 After taking these responses, the bot writes the data in Google Sheets for us.
 
 ## Do you guys want to team up with us?
-Then mail to [us](greenhouse.griet@gmail.com).
+If you join us, you can upgrade your front-end web development skills.
+- Without hesitation mail to us at greenhouse.griet@gmail.com
+- U can have a conversation with [telegram bot](https://t.me/G_root_bot).
 
 
