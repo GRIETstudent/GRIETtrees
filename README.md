@@ -23,12 +23,12 @@
 - [Elephant-Ear Tree](https://screenshot-code.github.io/hello/) 
  
 ## Telegram Chatbot
-A telegram widget appears at the bottom right side of the page. 
+A telegram widget appears at the bottom right side of [this page](https://grietstudent.github.io/GRIETtrees/). 
 Upon clicking it, it directs to the chat window of the telegram bot.
 The bot asks your name for an introduction and notes down the name of the tree and its whereabouts in location coordinates.
 For health monitoring purposes, the bot asks whether the tree has any disease?
 The user mentions the disease present in the trees based on his observation.
-After taking these responses, the bot writes the data in Google Sheets for us.
+> After taking these responses, the bot writes the data in Google Sheets for us.
 
 ## Do you guys want to team up with us?
 If you join us, you can upgrade your front-end web development skills.
