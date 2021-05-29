@@ -1,4 +1,4 @@
-# [GRIETtrees](https://screenshot-code.github.io/hello/)
+# [GRIETtrees](https://grietstudent.github.io/GRIETtrees/)
 - Hii!! Welcoming you with great pleasure. 
 - This website is designed by GR17 ECE Students. 
 - This website maintains information about the trees present on the **GRIET campus**. 
