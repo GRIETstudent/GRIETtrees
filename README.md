@@ -1,6 +1,6 @@
 # [GRIETtrees](https://grietstudent.github.io/GRIETtrees/)
 - Hii!! Welcoming you with great pleasure. 
-- This website is designed by GR17 ECE Students. 
+- This website is designed by **GR17 ECE Students**. 
 - This website maintains information about the trees present on the **GRIET campus**. 
 - To know more about the trees present on the campus and to monitor them, **Geotagging** concept is implemented. 
 > Geotagging is meant for **identifying**, **knowing** more about the trees and **locating** them on the map for **tracking** purposes. Information related to the trees is presented on web pages.
