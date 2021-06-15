@@ -13,8 +13,8 @@
 - Economical uses
  > Also, a map is kept at the footer section and the pinpoint tells where the tree is.
  ##### Some trees found in **GRIET Campus** are:
- - [Mango tree](https://screenshot-code.github.io/hello/mangotree.html)
-- [Tamarind tree](https://grietstudent.github.io/GRIETtrees/tamarind.html)
+ - [Mango tree](https://grietstudent.github.io/GRIETtrees/mangotree.html)
+- [Tamarind tree](https://grietstudent.github.io/GRIETtrees/tamarindtree.html)
 - [Jackfruit Tree](https://screenshot-code.github.io/hello/jackfruit.html)
 - [Ashoka Tree](https://screenshot-code.github.io/hello/ashoka.html)
 - [Peepal Tree](https://screenshot-code.github.io/hello/Peepaltrees.html)
